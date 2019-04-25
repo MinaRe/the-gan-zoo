@@ -318,6 +318,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code	Watches	Stars	Forks
 2018	3	B-DCGAN	B-DCGAN:Evaluation of Binarized DCGAN for FPGA	https://arxiv.org/abs/1803.10930	-			
 2018	3	BAGAN	BAGAN: Data Augmentation with Balancing GAN	https://arxiv.org/abs/1803.09655	-			
 2018	3	BranchGAN	Branched Generative Adversarial Networks for Multi-Scale Image Manifold Learning	https://arxiv.org/abs/1803.08467	-			
+2018  3 Caccade-GANs Whole Heart and Great Vessel Segmentation with Context-aware of Generative Adversarial Networks  https://link.springer.com/chapter/10.1007/978-3-662-56537-7_89
 2018	3	D2IA-GAN	Tagging like Humans: Diverse and Distinct Image Annotation	https://arxiv.org/abs/1804.00113	-			
 2018	3	DBLRGAN	Adversarial Spatio-Temporal Learning for Video Deblurring	https://arxiv.org/abs/1804.00533	-			
 2018	3	E-GAN	Evolutionary Generative Adversarial Networks	https://arxiv.org/abs/1803.00657	-			
@@ -396,7 +397,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code	Watches	Stars	Forks
 2018	5	MEGAN	MEGAN: Mixture of Experts of Generative Adversarial Networks for Multimodal Image Generation	https://arxiv.org/abs/1805.02481	-			
 2018	5	MolGAN	MolGAN: An implicit generative model for small molecular graphs	https://arxiv.org/abs/1805.11973	-			
 2018	5	N2RPP	N2RPP: An Adversarial Network to Rebuild Plantar Pressure for ACLD Patients	https://arxiv.org/abs/1805.02825	-			
-2018	5	PD-WGAN	Primal-Dual Wasserstein GAN	https://arxiv.org/abs/1805.09575	-			
+2018	5	PD-WGAN	Primal-Dual Wasserstein GAN	https://arxiv.org/abs/1805.09575	-	
 2018	5	POGAN	Perceptually Optimized Generative Adversarial Network for Single Image Dehazing	https://arxiv.org/abs/1805.01084	-			
 2018	5	PSGAN	PSGAN: A Generative Adversarial Network for Remote Sensing Image Pan-Sharpening	https://arxiv.org/abs/1805.03371	-			
 2018	5	ReGAN	ReGAN: RE[LAX|BAR|INFORCE] based Sequence Generation using GANs	https://arxiv.org/abs/1805.02788	https://github.com/TalkToTheGAN/REGAN	2	24	2
